@@ -9,8 +9,5 @@ euler01:
 euler02:
 	gcc -Os -o euler02 -std=c99 euler02.c
 
-euler03:
-	gcc -Os -o euler03 -std=c99 euler03.c
-
 euler15:
 	gcc -Os -o euler15 -std=c99 euler15.c
